@@ -6,8 +6,8 @@ Entrar no sistema novamente:
                          https://www.ufpe.br/decart
 
 Link Direto:
+[Cadastro de Estágio Decart](https://erobeng.page.link/Cadastrodeestagio)
 
-https://docs.google.com/forms/d/e/1FAIpQLSeP_7nRbR6qBcmcn1HB1N9xghbqS5H97Uccguk-p4dAi5WdkQ/viewform
 
 Então você vai optar pela opção que deseja:
 <a href="https://ibb.co/bmDd8KQ"><img src="https://i.ibb.co/54wcfRG/tela-2.jpg" alt="tela-2" border="0"></a>
@@ -19,5 +19,5 @@ Qualquer dúvida entrar nos canais:
 
 [https://linktr.ee/ProfErisonBarros](https://linktr.ee/ProfErisonBarros)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE2MTYzNTc0XX0=
+eyJoaXN0b3J5IjpbMTM2MzY4NDU3Nyw3MTYxNjM1NzRdfQ==
 -->
