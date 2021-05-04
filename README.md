@@ -19,6 +19,5 @@ Qualquer dúvida entrar nos canais:
 
 [https://linktr.ee/ProfErisonBarros](https://linktr.ee/ProfErisonBarros)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE2MTYzNTc0LDIzMDc0NjA3MCwtNTM4MD
-M2MTBdfQ==
+eyJoaXN0b3J5IjpbNzE2MTYzNTc0XX0=
 -->
