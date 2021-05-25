@@ -3,10 +3,15 @@
 ### Orientações
  Após preencher o cadastro de Estágio  e enviar o cadastro de estágio: 
  Link Direto: [Cadastro de Estágio Decart](https://erobeng.page.link/Cadastrodeestagio)
- Conforme o
+ Conforme orientações:
  https://github.com/CoordenacaodeEstagio/site
+
+<a href="https://ibb.co/gv63qXQ"><img src="https://i.ibb.co/285yVLR/op-o.jpg" alt="op-o" border="0"></a>
+
+Terá um item do formulário de Cadastro que pedira para enviar em PDF o contrato de  estágio.
+Depois de 48
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NjEyNzE3MV19
+eyJoaXN0b3J5IjpbLTE2OTM2NDkzMzFdfQ==
 -->
