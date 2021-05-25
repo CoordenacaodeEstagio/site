@@ -3,8 +3,8 @@
 
 ---
 
-<h2 id="como-enviar-o-seu-contarto-de-estágio--para-assinar">Como enviar o seu Contarto de Estágio  para assinar?</h2>
-<p>Entrar no sistema novamente:</p>
+< h2  id = " como-enviar-o-seu-contarto-de-estágio - para-assinar " > Como enviar o seu Contarto de Estágio para assinar? </ h2 >
+< p > Entrar no sistema novamente: </ p >
 <p><a href="https://ibb.co/QdNbySP"><img src="https://i.ibb.co/NSjVcD9/screenshot.jpg" alt="screenshot" border="0"></a></p>
 <pre><code>                     https://www.ufpe.br/decart
 </code></pre>
@@ -16,3 +16,6 @@
 <p>Qualquer dúvida entrar nos canais:</p>
 <p><a href="https://linktr.ee/ProfErisonBarros">https://linktr.ee/ProfErisonBarros</a></p>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzc5NTg3OTI3XX0=
+-->
