@@ -9,9 +9,9 @@
 <a href="https://ibb.co/gv63qXQ"><img src="https://i.ibb.co/285yVLR/op-o.jpg" alt="op-o" border="0"></a>
 
 Terá um item do formulário de Cadastro que pedira para enviar em PDF o contrato de  estágio.
-Depois de 48
+Depois de 48 horas o sistema enviará um e-mail para o e-mail cadastrado no formulário  com edereçamento postal
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTM2NDkzMzFdfQ==
+eyJoaXN0b3J5IjpbLTkxMzI3NzU4N119
 -->
