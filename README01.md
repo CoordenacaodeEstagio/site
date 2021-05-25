@@ -26,7 +26,11 @@ Quando as duas partes estiverem assinados, vai aparecer no e-mail o botão baixa
 
 Para maiores informações entrar no Canal de orientação de estágio.
 
+(https://t.me/ufpedecartcoordestagio)
 
+Ou nos Links:
+
+https://linktr.ee/ProfErisonBarros
 
 
 
@@ -36,6 +40,6 @@ Para maiores informações entrar no Canal de orientação de estágio.
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMxNjY5ODk0LDExNzUxMTE1LC02ODI1ND
-g2NTRdfQ==
+eyJoaXN0b3J5IjpbMTU1NzA5MzE4NiwxMTc1MTExNSwtNjgyNT
+Q4NjU0XX0=
 -->
