@@ -13,6 +13,8 @@ Depois de 48 horas o sistema enviará um e-mail para o e-mail cadastrado no form
 
 ### assinaturagratis.com - by Contraktor  <assinaturagratis@contraktor.com.br>
 
+<a href="https://ibb.co/252ks5C"><img src="https://i.ibb.co/CWdHMWY/assinatura-gratis.jpg" alt="assinatura-gratis" border="0"></a>
+
 
 
 Quando as duas partes estiverem assinados, vai aparecer no e-mail o botão baixar documento.
@@ -23,5 +25,5 @@ Quando as duas partes estiverem assinados, vai aparecer no e-mail o botão baixa
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyNzg0MTEzLC02ODI1NDg2NTRdfQ==
+eyJoaXN0b3J5IjpbMTg5MTM2OTkzNCwtNjgyNTQ4NjU0XX0=
 -->
