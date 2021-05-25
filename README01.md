@@ -15,11 +15,13 @@ Depois de 48 horas o sistema enviará um e-mail para o e-mail cadastrado no form
 
 
 
-Quando as duas partes estiverem assinados 
+Quando as duas partes estiverem assinados, vai aparecer no e-mail o botão baixar documento.
+
+ 
 
 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNjMwMDk3LC02ODI1NDg2NTRdfQ==
+eyJoaXN0b3J5IjpbNDcyNzg0MTEzLC02ODI1NDg2NTRdfQ==
 -->
