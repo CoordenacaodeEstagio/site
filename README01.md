@@ -1,19 +1,19 @@
-## Welcome to GitHub Pages
+## Bem-vindo às páginas do GitHub
 
-You can use the [editor on GitHub](https://github.com/CoordenacaodeEstagio/site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Você pode usar o [ editor no GitHub ] (https://github.com/CoordenacaodeEstagio/site/edit/master/README.md) para manter e visualizar o conteúdo do seu site em arquivos Markdown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sempre que você se comprometer com este repositório, o GitHub Pages executará [ Jekyll ] (https://jekyllrb.com/) para reconstruir as páginas em seu site, a partir do conteúdo de seus arquivos Markdown.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown é uma sintaxe leve e fácil de usar para estilizar sua escrita. Inclui convenções para
 
-```markdown
-Syntax highlighted code block
+`` `remarcação
+Bloco de código em destaque de sintaxe
 
-# Header 1
-## Header 2
-### Header 3
+# Cabeçalho 1
+## Cabeçalho 2
+### Cabeçalho 3
 
 - Bulleted
 - List
@@ -35,3 +35,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjAzNTI0Nzg4XX0=
+-->
