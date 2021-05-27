@@ -1,4 +1,4 @@
-## Orientações para Recebimento e assinatura do Contrato de Estágio  entre o Coordenador e o Estagiário
+## Orientações para Recebimento e Assinatura do Contrato de Estágio e Relatório de Estágio
 
 ### Orientações
  Após preencher o cadastro de Estágio  e enviar o cadastro de estágio: 
