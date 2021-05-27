@@ -1,4 +1,4 @@
-## Como Enviar o seu Contrato de Estágio ou Relatório de Estágio para assinar?
+## Como Enviar o seu Contrato de Estágio ou Relatório de Estágio para Assinar?
 Entrar no sistema novamente:  
 
 <a href="https://ibb.co/QdNbySP"><img src="https://i.ibb.co/NSjVcD9/screenshot.jpg" alt="screenshot" border="0" /></a>
