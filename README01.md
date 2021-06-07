@@ -6,7 +6,7 @@
  Conforme orientações:
  https://github.com/CoordenacaodeEstagio/site
 
-<a href="https://ibb.co/gv63qXQ"><img src="https://i.ibb.co/285yVLR/op-o.jpg" alt="op-o" border="0"></a>
+<a href="https://ibb.co/cxfTqdJ"><img src="https://i.ibb.co/SJYvSpN/Op-es-cadastro-de-Est-gio.jpg" alt="Op-es-cadastro-de-Est-gio" border="0"></a>
 
 Terá um item do formulário de Cadastro que pedira para enviar em PDF o contrato de  estágio.
 Depois de 48 horas o sistema enviará um e-mail para o e-mail cadastrado no formulário  com endereçamento postal: 
@@ -40,6 +40,6 @@ https://linktr.ee/ProfErisonBarros
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NzA5MzE4NiwxMTc1MTExNSwtNjgyNT
-Q4NjU0XX0=
+eyJoaXN0b3J5IjpbMTA3MTk5MjQwNSwxNTU3MDkzMTg2LDExNz
+UxMTE1LC02ODI1NDg2NTRdfQ==
 -->
