@@ -18,12 +18,12 @@ Link Direto:
 * Relatório de Atividades de Estágio
 * Termo de Encerramento de Estágio
 
- No formulário de Cadastro que pedira para enviar em PDF com o contrato de  estágio.
+ No formulário de Cadastro que pedira para enviar em PDF  os documentos de comprovação.
 
 Qualquer dúvida entrar nos canais:
 [https://linktr.ee/ProfErisonBarros](https://linktr.ee/ProfErisonBarros)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NjY0Mjk1MywtNjI3NjA0OTI1LDc2MT
-E3NzMyMCwtMTQxMTQyODE1MiwtMjIxNjA5OTAsMTM2MzY4NDU3
-Nyw3MTYxNjM1NzRdfQ==
+eyJoaXN0b3J5IjpbMTI5MjI4MzU2OCwtOTQ2NjQyOTUzLC02Mj
+c2MDQ5MjUsNzYxMTc3MzIwLC0xNDExNDI4MTUyLC0yMjE2MDk5
+MCwxMzYzNjg0NTc3LDcxNjE2MzU3NF19
 -->
